@@ -7,8 +7,8 @@ Krátký popis: Aplikace pro studenty a velitele rot
 
 Klíčové funkce:
 
-Komunikace
-Kalendář
-Login/registr
-Žádosti
-a další funkce co mě napadnou
+- Komunikace
+- Kalendář
+- Login/registr
+- Žádosti
+- a další funkce co mě napadnou
